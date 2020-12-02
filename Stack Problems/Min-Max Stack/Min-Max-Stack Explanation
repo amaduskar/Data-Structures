@@ -1,9 +1,9 @@
 Stack is a linear data structure which follows a particular order in which the operations are performed.  
 The order may be LIFO(Last In First Out) or FILO(First In Last Out).  
 In the min-max stack, we use lists and OOP to develop a stack which supports the following operations -  
-* Push - Add an element to the stack  
-* Pop - Return the top most element of the stack and remove it  
-* Peek - Return the top most element of the stack without removing it  
-* getMin - Return the smallest element of the stack  
-* getMax - Return the largest element of the stack  
+Push - Add an element to the stack  
+Pop - Return the top most element of the stack and remove it  
+Peek - Return the top most element of the stack without removing it  
+getMin - Return the smallest element of the stack  
+getMax - Return the largest element of the stack  
 All of these operations are done in constant time and space i.e. O(1)
